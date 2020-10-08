@@ -53,7 +53,7 @@ button:hover{
 button:active{
     transform:translateY(1px);
 }
-.zero-button{
+#zero-button{
     grid-column:span 2;
 }
 .operator{
